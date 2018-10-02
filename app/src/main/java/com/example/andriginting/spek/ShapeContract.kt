@@ -6,7 +6,7 @@ class ShapeContract {
     }
 
     interface View{
-        fun showResult()
+        fun showResult(result: Int)
 
         fun emptyField()
     }
