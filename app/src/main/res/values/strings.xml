@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Spek</string>
     <string name="action_settings">Settings</string>
+    <string name="height_placeholder">panjang</string>
+    <string name="width_placeholder">lebar</string>
+    <string name="result_hint">hasilnya :</string>
 </resources>

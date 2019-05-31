@@ -1,11 +1,9 @@
-/build
 /.idea/caches
 /.idea/libraries
 /.idea/modules.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
 .externalNativeBuild
-
 
 ### CVS template
 /CVS/*
